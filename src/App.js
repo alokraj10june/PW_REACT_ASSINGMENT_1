@@ -21,6 +21,7 @@ function App() {
       <Button text="clicked me" onClick={() => console.log("Button clicked")}/>
       <List items="apple" />
       <List items="banana"/>
+      <Header title="Hello Alok Raj"/>
       {/* <Header title="HELLO"/>
         <CounterApp/>
         
